@@ -1,2 +1,2 @@
-Small Basic Projects I Created To Understand Basic CSS. 
+Small Projects I Created To Understand Basic CSS. 
 
